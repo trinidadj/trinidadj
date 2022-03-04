@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Jesus Trinidad, a Full Stack Developer & Data Science ⚡ from 🇲🇽. Beside's programming, I enjoy nature walks and traveling.
+Hi, I'm Jesus Trinidad, a Full Stack Developer & Data Science ⚡ from Mexico {🇲🇽}. Beside's programming, I enjoy nature walks and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/g1G1FpVnYCTtaTXWWm/giphy.gif" />
   
