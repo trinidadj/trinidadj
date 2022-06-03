@@ -20,7 +20,7 @@ Hi, I'm Jesus Trinidad, a versatilist and easily adapt to different hats (Full S
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Blockchain Metaverse Project;
-- 🌱 I’m currently learning React and Machine Learning; 
+- 🌱 I’m currently learning Advanced React and Machine Learning; 
 - 👯 I’m looking to collaborate on Google Cloud Innovators program 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
