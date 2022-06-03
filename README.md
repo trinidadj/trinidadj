@@ -24,7 +24,8 @@ Hi, I'm Jesus Trinidad, a versatilist and easily adapt to different hats (Full S
 - 👯 I’m looking to collaborate on Google Cloud Innovators program 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I was a lawyer until before the pandemic, thanks 2020 for let me know a Tech world <3 
+- ⚡️ Fun-Fact: I was a lawyer until before the pandemic, thanks 2020 for 
+- let me know a Tech world <3 
 - 📝[Resume]()
 
 <p align="center">**Languages and Tools:**<p>
