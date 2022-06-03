@@ -42,6 +42,7 @@ Hi, I'm Jesus Trinidad, a versatilist and easily adapt to different hats (Full S
 
 <p align="center">
 <br>Software developer at: <br>
-<img src="[https://careers.endava.com/-/media/EndavaDigital/Endava/Images/MetaDataImages/preview-image.ashx]" width="20%"/>
+<code><img weidht="20" src="https://careers.endava.com/-/media/EndavaDigital/Endava/Images/MetaDataImages/preview-image.ashx"></code>
 <p>
 
+  
