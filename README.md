@@ -1,13 +1,13 @@
-### Hey 👋🏽, I'm [Trinidadj!](https://trinidadcj.tech) 
+<h1 align="center">### Hey 👋🏽, I'm [Trinidadj!](https://trinidadcj.tech) height="30" width="40" /> </h1>
 
 <a href="https://twitter.com/triinidadr">
-  <img align="left" alt="Trinidadj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Trinidadj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/trinidadjr/">
-  <img align="left" alt="Trinidadj LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Trinidadj LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/trinidadrgz/">
-  <img align="left" alt="Trinidadj Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Trinidadj Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
