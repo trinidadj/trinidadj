@@ -1,4 +1,4 @@
-<h1 align="center">### Hey 👋🏽, I'm [Trinidadj!](https://trinidadcj.tech)  height="30" width="40" /> </h1><h3 align="center">
+<h1 align="center">### Hey 👋🏽, I'm [Trinidadj!](https://trinidadcj.tech)  
 
 <a href="https://twitter.com/triinidadr">
   <img align="center" alt="Trinidadj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
