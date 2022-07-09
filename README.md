@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/trinidadjr/">
 <img align="center" alt="Trinidadj LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/trinidadrgz/">
+<a href="https://www.instagram.com/trinidadfco/">
 <img align="center" alt="Trinidadj Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
