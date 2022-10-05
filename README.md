@@ -15,7 +15,7 @@
 
 Hi, I'm Jesus Trinidad, a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Data Science 🤖 or beginner Ml🐱‍💻 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/g1G1FpVnYCTtaTXWWm/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/3o7btPSUgEgcFybC36/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
